@@ -3,8 +3,7 @@ A Local Area Network Messaging App
 
 Language Used
 * C++
-Tech used
-* Gtkmm3.0 for GUI impmlementation and TCP Socket for communication over network
+
 
 A minor project for 3rd Sem OOP project
 Feautres
@@ -16,8 +15,7 @@ Group Chat
 Online Clients information
 User friendly GUI
 Login System ( Enter username, default password is password )
-Some features are underdevlopment due to lack of time and other subject pressures!
-Gtk used over to Qt as Qt was not permitted to use
+
 
 Usage:
 
