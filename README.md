@@ -1,32 +1,21 @@
 # chat_app
-A Local Area Network Messaging App
 
-Language Used
-* C++
+Chat-Appication-using-Cpp-
+A console based chat application using C++.
 
-
-A minor project for 3rd Sem OOP project
-Feautres
-
-Multi Client Handling Server using select()
-Read / Write at same time using timers and non-blocking mode
-File transfer ( Under Development )
-Group Chat
-Online Clients information
-User friendly GUI
-Login System ( Enter username, default password is password )
-
-
-Usage:
-
-set the ip address and port in the server.hpp and client.cpp as per requirements
-build and run server.cpp on terminal
-build main.cpp on other terminal
-open the exe file as much as you can and enjoy chatting. (10 max Clients)
-->for server:
-g++ server.cpp -o server
-./server
-
-->for client
-g++ main.cpp Client.cpp -o main pkg-config --cflags --libs gtkmm-3.0
-./main
+Features:
+Sign up
+Sign in
+Inbox
+Chat
+Friend list
+Add friend
+Unfriend
+Group Message
+Dependenices
+GNU GCC 4.8.1 compiler or higher
+Steps to execute
+ Copy the contents of src folder in your computer.
+ Compile the file chat_final.cpp on GNU GCC 4.8.1 or higher compiler.
+ Select option 1 to register on application and Fill necessary details as asked on console.
+ Select option 2 to sign in and follow the instructions displayed on console to use various features.
