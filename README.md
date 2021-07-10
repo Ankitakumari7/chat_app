@@ -1,7 +1,7 @@
 # chat_app
 
 Chat-Appication-using-Cpp-
-A console based chat application using C++.
+A console based chat application 
 
 Features:
 Sign up
