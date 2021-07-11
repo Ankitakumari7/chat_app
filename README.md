@@ -13,6 +13,13 @@ Add friend
 Unfriend
 Group Message
 Dependenices
+Deployed:
 
 
-<a href="http://aksinghportfolio.000webhostapp.com/users.php" click here</a>
+http://aksinghportfolio.000webhostapp.com/users.php
+
+Steps: download zip file
+Open 000webhostapp.com
+Make database
+Import chatapp.sql 
+Signup 
